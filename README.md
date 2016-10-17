@@ -1,4 +1,4 @@
-# naist-is-entrance-exam
+# naist-is-entrance-exam-math
 
 奈良先端科学技術大学院大学 情報科学研究科 入学者選抜試験 数学の過去問アーカイブです．
 
